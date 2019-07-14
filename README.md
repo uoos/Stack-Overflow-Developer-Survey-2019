@@ -20,7 +20,7 @@ Is education level important to make good money for SW developer in OECD countri
 There is a notebook available here to showcase work related to the above questions. the notebook is exploratory in searching through the data pertaining to the questions. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 ### 4.Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available here<https://medium.com/@yusuke244106/where-is-the-best-place-for-software-developers-to-make-money-c5480b9ef344>.
 
 ### 5.Licensing, Authors, Acknowledgements
-Must give credit to Stack Overflow and OECD for the data. You can find the Licensing for the data and other descriptive information at the Stack Overflow link available here<https://opendatacommons.org/licenses/odbl/1.0/>  and OECD link available here<http://www.oecd.org/termsandconditions/>.
+Must give credit to Stack Overflow and OECD for the data. You can find the Licensing for the data and other descriptive information at the Stack Overflow link available here<https://opendatacommons.org/licenses/odbl/1.0/> and OECD link available here<http://www.oecd.org/termsandconditions/>.
